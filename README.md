@@ -1,6 +1,6 @@
 # esp8266-moisture-sensor
 
-The endgoal of this project is to have a moisture sensor connected to Home Assistant using an esp8266. As I'm moving out soon and I'll have a couple of plants in the house this seemed like a fun project. Note that there are a lot of open endings en decisions to be made...
+The endgoal of this project is to have a moisture sensor connected to Home Assistant using an esp8266. As I'm moving out soon and I'll have a couple of plants in the house, this seemed like a fun project to pickup. Note that there are a lot of open endings en decisions to be made...
 
 ## Research topics
 
@@ -29,3 +29,10 @@ The endgoal of this project is to have a moisture sensor connected to Home Assis
     - https://arduinodiy.wordpress.com/2018/06/28/a-capacitive-soil-humidity-sensor-part-2/
     - https://arduinodiy.wordpress.com/2016/02/25/a-capacitive-soil-humidity-sensor-part-3/
     - https://arduinodiy.wordpress.com/2018/06/28/a-capacitive-soil-humidity-sensor-part-4/
+
+### Possible Zigbee version for the far future:
+
+- https://de.aliexpress.com/item/32803052003.html
+- https://de.aliexpress.com/item/32803335623.html
+- https://github.com/Koenkk/Z-Stack-firmware
+- https://github.com/formtapez/ZigUP/
