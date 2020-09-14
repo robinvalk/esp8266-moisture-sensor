@@ -19,7 +19,7 @@ The endgoal of this project is to have a moisture sensor connected to Home Assis
     - Graphite (from pencils?)
     - Cheap Aliexpress
 - Current delivery to Cathodes
-    - Need to turnoff the current to the cathodes to limit the ocidation. Even with graphite it's still good practice. This is possible using a transistor.
+    - Need to turnoff the current to the cathodes to limit the ocidation. Even with graphite it's still good practice. This should be easily possible using a transistor.
 
 ## Resources used
 
@@ -36,3 +36,4 @@ The endgoal of this project is to have a moisture sensor connected to Home Assis
 - https://de.aliexpress.com/item/32803335623.html
 - https://github.com/Koenkk/Z-Stack-firmware
 - https://github.com/formtapez/ZigUP/
+- https://ptvo.info/
