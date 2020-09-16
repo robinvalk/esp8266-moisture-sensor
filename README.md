@@ -1,6 +1,6 @@
 # esp8266-moisture-sensor
 
-The endgoal of this project is to have a moisture sensor connected to Home Assistant using an esp8266. As I'm moving out soon and I'll have a couple of plants in the house, this seemed like a fun project to pickup. Note that there are a lot of open endings en decisions to be made...
+The endgoal of this project is to have a moisture sensor connected to Home Assistant using an esp8266. I'm moving out soon and I'll probably have a couple of plants in the house, so this seemed like a fun project to pickup. Note that there are a lot of open endings en decisions to be made...
 
 ## Research topics
 
@@ -37,3 +37,18 @@ The endgoal of this project is to have a moisture sensor connected to Home Assis
 - https://github.com/Koenkk/Z-Stack-firmware
 - https://github.com/formtapez/ZigUP/
 - https://ptvo.info/
+- https://www.ti.com/lit/an/swra615a/swra615a.pdf
+- https://modkam.ru/?p=1220
+- https://modkam.ru/?p=1700
+    - https://github.com/diyruz/flower
+- https://e2e.ti.com/support/wireless-connectivity/zigbee-and-thread/f/158/t/746331?tisearch=e2e-sitesearch&keymatch=faq%3Atrue
+  - https://www.ti.com/lit/an/swra615a/swra615a.pdf?ts=1600238890412
+  - https://www.ti.com/lit/wp/swra635/swra635.pdf?ts=1600238951750
+  - http://dev.ti.com/tirex/explore/node?a=pTTHBmu__&node=AGJ1w770NgmECHXAzhAYMw__pTTHBmu__LATESThash=item2d12eb2c90:g:h3EAAOSwR5BfGVXo
+  - https://e2e.ti.com/support/wireless-connectivity/zigbee-and-thread/f/158/t/906365
+  - https://github.com/Koenkk/zigbee2mqtt/issues/1429
+  - https://electrolama.com/projects/zig-a-zig-ah/
+    - > CC2652R: 2.4GHz only multi-protocol (Zigbee, Bluetooth, Thread, ...) wireless MCU. Cortex-M0 core for radio stack and Cortex-M4F core for application use, plenty of RAM. Free compiler option from TI. zzh uses this chip.
+    - Hopefully the "Free compiler option from TI" part also counts for the CC2652P: CC2652R with a built-in RF PA. Not pin or firmware compatible with
+  - https://www.ti.com/product/CC2652P (CC2652P is the latest affortable TI chip with integrated power amplifier)
+  - https://www.ebay.nl/itm/E72-2G4M20S1E-CC2652P-2-4G-zigbee-20dBm-700m-bluetooth-5-0-PCB-BLE-module/193590930576?
